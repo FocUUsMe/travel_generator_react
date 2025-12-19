@@ -1,3 +1,3 @@
-    ## First React Project - Travel generator
+## First React Project - Travel generator
 
-    Some countries with deskription and interesting fact with *modern design*
+Some countries with deskription and interesting fact with *modern design*
